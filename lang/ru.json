@@ -1,0 +1,17 @@
+{
+    "User name": "Имя пользователя",
+    "Email address": "Email адрес",
+    "Message": "Сообщение",
+    "Comment": "Комментарий",
+    "Status": "Статус",
+    "Responsible person": "Ответственное лицо",
+
+    "Application accepted": "Заявка принята",
+    "The application has been successfully updated": "Заявка успешно обновлена",
+    "The application was successfully deleted": "Заявка успешно удалена",
+
+    "Error when creating an application": "Ошибка при создании заявки",
+    "Error updating the application": "Ошибка обновлении заявки",
+    "Error deleting the application": "Ошибка удалении заявки"
+
+}
